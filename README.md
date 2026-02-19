@@ -1,80 +1,65 @@
-<h1 align="center">Hey there! 👋 I'm Asjal Abdullah</h1>
-<h3 align="center">🚀 CS Student @ FAST-NUCES | 💻 Front-End Dev | 🤖 AI Enthusiast</h3>
-
+<h1 align="center">Asjal Abdullah Butt</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=I+am+passionate+about+building+cool+projects;I+focus+on+AI%2C+Front-End+%26+Systems;Always+learning+something+new+every+day" alt="Typing SVG" />
+  <strong>CS Undergraduate (FAST-NUCES Lahore, 2022–2026)</strong> · Front-End Development · AI/ML · Systems
 </p>
 
 <p align="center">
-  <a href="mailto:asjal.abdullah.butt.19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/asjal-abdullah-a3254b296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AsjalAbdullahButt"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:asjal.abdullah.butt.19@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/asjal-abdullah-a3254b296"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AsjalAbdullahButt"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=780&lines=Building+AI+%26+web+projects+with+clean%2C+scalable+code;CS+student+focused+on+engineering+fundamentals+and+shipping;Always+learning%2C+always+improving"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 CS Undergrad @ **FAST-NUCES Lahore (2022–2026)**
-- 💡 Focused on **AI**, **Web Development**, and **System Programming**
-- ✍️ Passionate about writing **clean**, **scalable**, and **efficient code**
-- 🌱 Always exploring new tech and frameworks
-- 💼 Seeking **AI/Software Dev internships**
-- ⚡ Fun Fact: I can code for hours but forget to blink 👀
+## About
+- 🎓 **CS Undergraduate** at **FAST-NUCES Lahore** (2022–2026)
+- 💡 Interests: **AI/ML**, **Web Development**, **System Programming**
+- ✍️ I value **clean code**, **readability**, and **practical problem-solving**
+- 💼 Open to **internships** in Software Development / AI / Full-Stack
 
 ---
 
-### 🛠️ Tech Toolbox
+## Tech Stack
 
-#### 💬 Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logo=codeforces&logoColor=white)
+**Languages**
+- Python · C++ · SQL · HTML · CSS · Assembly (x86)
 
-#### 🧰 Tools & Frameworks  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+**Tools / Frameworks**
+- Git · Linux · VS Code · Visual Studio  
+- NumPy · Keras · OpenCV  
+- SQL Server
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-| 💡 Project | 📜 Description | 🧰 Tech Stack |
-|-----------|----------------|---------------|
-| 🎯 **Gold Price Prediction** | Forecasted gold trends using CNN-LSTM with real-world data | `Python`, `NumPy`, `LSTM`, `Pandas`, `Matplotlib` |
-| 🧍‍♂️ **Human Activity Recognition** | Classified human motion using wearable sensors | `Keras`, `LSTM`, `Python`, `Scikit-learn` |
-| 🏥 **Hospital Management System** | CRUD-based app for hospital operations | `C#`, `.NET`, `MySQL`, `WinForms` |
-| 💊 **Pharmacy Management Tool** | Track inventory & billing in CLI-based system | `C++`, `OOP`, `File Handling` |
-| 🌱 **Garden Growth Simulator** | Simulated plant growth with event-driven logic | `C++`, `Simulation` |
-| 🕹️ **Assembly Game Suite** | Snake, Tic Tac Toe & more in low-level assembly | `Assembly`, `x86`, `DOSBox` |
-| 📸 **Camera Capture Utility** | Live camera capture with OpenCV | `Python`, `OpenCV` |
-| 📦 **Image Compression Tool** | JPEG-style image compression using Huffman | `Python`, `Huffman`, `File I/O` |
+| Project | What it is | Tech |
+|---|---|---|
+| **EDU Track** | University academic management portal for students, faculty, and admins (attendance, enrollments, fees, grades, notifications, feedback). | HTML · CSS · JavaScript · FastAPI · MySQL · SQLAlchemy |
+| **DineFlow** | Smart restaurant ordering and real-time (simulated) order tracking app with admin management (menu, coupons, orders, notifications). | Flutter · FastAPI · MongoDB · JWT |
+| **Gold Price Prediction** | Forecasting gold trends using deep learning (CNN-LSTM). | Python · Pandas · NumPy · Matplotlib · LSTM |
+| **Human Activity Recognition** | Motion classification using wearable sensor data. | Keras · Python · Scikit-learn · LSTM |
+| **Hospital Management System** | CRUD app for hospital operations. | C# · .NET · MySQL · WinForms |
+| **Assembly Game Suite** | Mini-games (Snake, Tic Tac Toe, etc.) in assembly. | x86 Assembly · DOSBox |
 
 ---
 
-### 🎯 2025 Goals
-
-- 🔍 Land an internship in **AI**, **Full-Stack Dev**, or **System Programming**
-- 👨‍💻 Contribute to 5+ open-source projects
-- 🌐 Build & deploy a full-stack SaaS application
-- 🧠 Deepen understanding in **Backend + System Design**
+## Goals (2025–2026)
+- Land an internship in **AI / Full-Stack / Systems**
+- Contribute consistently to **open source**
+- Build and deploy a **complete full-stack product**
+- Improve **system design** and backend fundamentals
 
 ---
 
-### ⚽ Hobbies & Interests
+## Interests
+- Cricket · Gaming · DSA / Algorithms
 
-- 🏏 Cricket fanatic (on and off the pitch)
-- 🎮 Gamer & tech experimenter
-- 🧠 Problem-solving with DSA & algorithmic challenges
-
-> ✨ *"Code with passion, design with purpose, and learn without limits."*  
-> — Asjal Abdullah
+> “Code with passion, design with purpose, and learn without limits.”
