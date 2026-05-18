@@ -16,7 +16,7 @@ I'm a final-year **Computer Science undergraduate** at **FAST-NUCES Lahore** (20
 
 - 🎓 **Degree:** BS Computer Science — FAST-NUCES Lahore
 - 💡 **Focus Areas:** AI/ML · Web Development · System Programming
-- 💼 **Seeking:** Internships in Software Development / AI / Full-Stack
+- 💼 **Status:** Open to Opportunities in AI / Full-Stack / Software Engineering
 - ✍️ **Philosophy:** Clean code, readable architecture, and practical problem-solving
 
 ---
@@ -39,6 +39,7 @@ I'm a final-year **Computer Science undergraduate** at **FAST-NUCES Lahore** (20
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -52,10 +53,28 @@ I'm a final-year **Computer Science undergraduate** at **FAST-NUCES Lahore** (20
 
 ## 🚀 Featured Projects
 
-### 🎓 EDU Track — University Academic Management Portal
-> A full-featured academic portal serving students, faculty, and administrators. Covers attendance tracking, course enrollment, fee management, grade reporting, notifications, and feedback — all in one unified platform.
+### 🌿 Thrive-AI — AI-Powered Mental Wellness Framework
+> **Final Year Project.** An intelligent stress monitoring system that fuses wearable sensor data with a conversational AI assistant to deliver real-time mental wellness insights and personalized coping support.
 
-**Tech:** `HTML` `CSS` `JavaScript` `FastAPI` `MySQL` `SQLAlchemy`
+**Tech:** `Python` `FastAPI` `Flutter` `MongoDB` `ML Models` `Wearable Sensors`
+
+---
+
+### 🤖 Machine Fault Detection — Predictive Maintenance with Deep Learning
+> End-to-end predictive maintenance framework comparing LSTM, CNN+LSTM, and Transformer architectures for industrial sensor fault detection. Includes RUL estimation, explainability via attention heatmaps, a live risk simulator, and automated PDF reporting.
+
+**Tech:** `Python` `TensorFlow` `Keras` `Scikit-learn` `LSTM` `CNN` `Transformer` `Pandas`
+
+🔗 [View Repository](https://github.com/AsjalAbdullahButt/Machine_Fault_Detection)
+
+---
+
+### 🧠 TicTacToe Q-Learning — Reinforcement Learning Agent
+> Two Q-Learning agents trained from zero knowledge through pure self-play, independently discovering optimal strategy. Achieves **97.6% win rate** vs random opponents and **100% draw rate** against a perfect Minimax opponent — matching game-theoretic optimality.
+
+**Tech:** `Python` `Q-Learning` `Reinforcement Learning` `Streamlit` `NumPy` `Matplotlib`
+
+🔗 [View Repository](https://github.com/AsjalAbdullahButt/TicTacToe_Q-Learning)
 
 ---
 
@@ -66,17 +85,17 @@ I'm a final-year **Computer Science undergraduate** at **FAST-NUCES Lahore** (20
 
 ---
 
+### 🎓 EDU Track — University Academic Management Portal
+> A full-featured academic portal serving students, faculty, and administrators. Covers attendance tracking, course enrollment, fee management, grade reporting, notifications, and feedback — all in one unified platform.
+
+**Tech:** `HTML` `CSS` `JavaScript` `FastAPI` `MySQL` `SQLAlchemy`
+
+---
+
 ### 📈 Gold Price Prediction — Deep Learning Forecasting
 > Predicts short-term gold price trends using a hybrid CNN-LSTM architecture. Includes data preprocessing pipelines, feature engineering, and visual trend analysis with Matplotlib.
 
 **Tech:** `Python` `Pandas` `NumPy` `Keras` `LSTM` `CNN` `Matplotlib`
-
----
-
-### 🏃 Human Activity Recognition — Wearable Sensor Classification
-> Classifies human physical activities (walking, sitting, running, etc.) from wearable accelerometer/gyroscope data using LSTM-based sequence modeling.
-
-**Tech:** `Python` `Keras` `Scikit-learn` `LSTM`
 
 ---
 
@@ -87,29 +106,27 @@ I'm a final-year **Computer Science undergraduate** at **FAST-NUCES Lahore** (20
 
 ---
 
-### 🕹️ Assembly Game Suite — Low-Level Mini Games
-> A collection of classic mini-games (Snake, Tic Tac Toe, and more) built entirely in x86 Assembly. A deep-dive into low-level programming, memory management, and interrupt handling.
+## 📚 Proficient In
 
-**Tech:** `x86 Assembly` `DOSBox`
+| Area | Skills |
+|---|---|
+| 🧠 AI / ML | Deep Learning, LSTMs, CNNs, Transformers, Reinforcement Learning, Model Optimization |
+| 🌐 Web Development | HTML/CSS/JS, Responsive Design, FastAPI, REST APIs |
+| 📱 App Development | Flutter & Dart — Cross-Platform Mobile UI & State Management |
+| ⚙️ Backend | FastAPI — Async APIs, Authentication, Database Integration |
 
----
-
-## 📚 Currently Learning
-
-I'm actively expanding my skill set in these areas:
+## 🔭 Currently Deepening
 
 | Area | What I'm Exploring |
 |---|---|
-| 🧠 Deep Learning | Neural network architectures, LSTMs, CNNs, model optimization |
-| 🌐 Web Development | Advanced HTML/CSS/JS, responsive design, modern JS patterns |
-| 📱 App Development | Flutter & Dart — cross-platform mobile UI and state management |
-| ⚡ Backend APIs | Python FastAPI — async APIs, authentication, database integration |
+| 🏗️ System Design | Scalable backend architecture, microservices, distributed systems |
+| ☁️ Deployment | Docker, cloud platforms, CI/CD pipelines |
 
 ---
 
-## 🎯 Goals (2025–2026)
+## 🎯 Goals (2026)
 
-- 🏢 Land an internship in **AI / Full-Stack / Systems Engineering**
+- 🏢 Land a full-time role in **AI / Full-Stack / Systems Engineering**
 - 🌍 Contribute consistently to **open source projects**
 - 🚢 Build and deploy a **complete full-stack product** end-to-end
 - 📐 Deepen knowledge in **system design** and backend architecture
