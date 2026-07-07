@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Asjal+Abdullah+Butt+%F0%9F%91%8B;CS+Undergraduate+%40+FAST-NUCES;Building+AI+%26+Web+Projects;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Asjal+Abdullah+Butt+%F0%9F%91%8B;Full-Stack+AI+Engineer+%F0%9F%A4%96;LLM+%7C+GenAI+%7C+RAG+Systems;Computer+Science+Graduate+%40+FAST-NUCES;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,137 +8,114 @@
   <a href="https://github.com/AsjalAbdullahButt"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AsjalAbdullahButt&label=Profile%20Views&color=00C9FF&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
 
 ## 👤 About Me
 
-I'm a final-year **Computer Science undergraduate** at **FAST-NUCES Lahore** (2022–2026), passionate about building intelligent, scalable software. I enjoy working across the stack — from designing clean frontends to training deep learning models and architecting backend systems.
+**Full-Stack AI Engineer** with a **BS in Computer Science** from **FAST-NUCES Lahore** — I design and ship intelligent, production-grade software end to end, from LLM-powered backends to clean, responsive frontends.
 
+I specialize in turning AI research into real products: **LLM applications, RAG pipelines, and ML systems** wired into scalable APIs and delivered through fast, AI-assisted development workflows.
+
+- 🤖 **Role:** Full-Stack AI Engineer — GenAI, LLMs & Applied Machine Learning
 - 🎓 **Degree:** BS Computer Science — FAST-NUCES Lahore
-- 💡 **Focus Areas:** AI/ML · Web Development · System Programming
-- 💼 **Status:** Open to Opportunities in AI / Full-Stack / Software Engineering
-- ✍️ **Philosophy:** Clean code, readable architecture, and practical problem-solving
+- 🧩 **What I Do:** LLM/RAG systems · ML pipelines · FastAPI backends · Cross-platform apps
+- 💼 **Status:** Open to AI / Full-Stack / ML Engineering roles
+- ⚡ **Workflow:** AI-assisted development (Claude Code · Cursor · Copilot) for rapid, reliable shipping
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🧠 AI / ML & Generative AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Frameworks & Libraries
+### 🔮 LLMs & Vector Stores
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00C9FF?style=flat-square&logoColor=white)
+
+### ⚙️ Backend & Frontend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🗄️ Databases, DevOps & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 💡 What I Bring
 
-### 🌿 Thrive-AI — AI-Powered Mental Wellness Framework
-> **Final Year Project.** An intelligent stress monitoring system that fuses wearable sensor data with a conversational AI assistant to deliver real-time mental wellness insights and personalized coping support.
-
-**Tech:** `Python` `FastAPI` `Flutter` `MongoDB` `ML Models` `Wearable Sensors`
-
----
-
-### 🤖 Machine Fault Detection — Predictive Maintenance with Deep Learning
-> End-to-end predictive maintenance framework comparing LSTM, CNN+LSTM, and Transformer architectures for industrial sensor fault detection. Includes RUL estimation, explainability via attention heatmaps, a live risk simulator, and automated PDF reporting.
-
-**Tech:** `Python` `TensorFlow` `Keras` `Scikit-learn` `LSTM` `CNN` `Transformer` `Pandas`
-
-🔗 [View Repository](https://github.com/AsjalAbdullahButt/Machine_Fault_Detection)
+- 🔗 **End-to-End AI Products** — from model to API to UI, I build the full pipeline, not just the notebook.
+- 🧠 **Applied GenAI** — RAG systems, LLM chatbots, cross-encoder re-ranking, and grounded, cited answers.
+- 📊 **Deep Learning at Scale** — LSTM / CNN / Transformer architectures for real-world prediction & vision tasks.
+- 🚀 **Ship Fast, Ship Clean** — AI-assisted workflows with production-grade prompt engineering and clean architecture.
+- 🤝 **Freelance-Ready** — active on Upwork delivering AI & full-stack solutions for real clients.
 
 ---
 
-### 🧠 TicTacToe Q-Learning — Reinforcement Learning Agent
-> Two Q-Learning agents trained from zero knowledge through pure self-play, independently discovering optimal strategy. Achieves **97.6% win rate** vs random opponents and **100% draw rate** against a perfect Minimax opponent — matching game-theoretic optimality.
+## 📊 GitHub Analytics
 
-**Tech:** `Python` `Q-Learning` `Reinforcement Learning` `Streamlit` `NumPy` `Matplotlib`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsjalAbdullahButt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsjalAbdullahButt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+</p>
 
-🔗 [View Repository](https://github.com/AsjalAbdullahButt/TicTacToe_Q-Learning)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AsjalAbdullahButt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
----
-
-### 🍽️ DineFlow — Smart Restaurant Ordering App
-> A modern restaurant app with real-time (simulated) order tracking and a full admin dashboard for managing menus, coupons, orders, and push notifications. Built with a clean mobile-first experience.
-
-**Tech:** `Flutter` `Dart` `FastAPI` `MongoDB` `JWT`
-
----
-
-### 🎓 EDU Track — University Academic Management Portal
-> A full-featured academic portal serving students, faculty, and administrators. Covers attendance tracking, course enrollment, fee management, grade reporting, notifications, and feedback — all in one unified platform.
-
-**Tech:** `HTML` `CSS` `JavaScript` `FastAPI` `MySQL` `SQLAlchemy`
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AsjalAbdullahButt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+</p>
 
 ---
 
-### 📈 Gold Price Prediction — Deep Learning Forecasting
-> Predicts short-term gold price trends using a hybrid CNN-LSTM architecture. Includes data preprocessing pipelines, feature engineering, and visual trend analysis with Matplotlib.
+## 🎯 2026 Objectives
 
-**Tech:** `Python` `Pandas` `NumPy` `Keras` `LSTM` `CNN` `Matplotlib`
-
----
-
-### 🏥 Hospital Management System — CRUD Operations App
-> A desktop application for core hospital operations including patient records, appointments, and staff management. Designed with a clean WinForms UI backed by MySQL.
-
-**Tech:** `C#` `.NET` `MySQL` `WinForms`
-
----
-
-## 📚 Proficient In
-
-| Area | Skills |
-|---|---|
-| 🧠 AI / ML | Deep Learning, LSTMs, CNNs, Transformers, Reinforcement Learning, Model Optimization |
-| 🌐 Web Development | HTML/CSS/JS, Responsive Design, FastAPI, REST APIs |
-| 📱 App Development | Flutter & Dart — Cross-Platform Mobile UI & State Management |
-| ⚙️ Backend | FastAPI — Async APIs, Authentication, Database Integration |
-
-## 🔭 Currently Deepening
-
-| Area | What I'm Exploring |
-|---|---|
-| 🏗️ System Design | Scalable backend architecture, microservices, distributed systems |
-| ☁️ Deployment | Docker, cloud platforms, CI/CD pipelines |
-
----
-
-## 🎯 Goals (2026)
-
-- 🏢 Land a full-time role in **AI / Full-Stack / Systems Engineering**
-- 🌍 Contribute consistently to **open source projects**
-- 🚢 Build and deploy a **complete full-stack product** end-to-end
-- 📐 Deepen knowledge in **system design** and backend architecture
+- 🤖 **Grow as an AI/ML Engineer** — build production-grade **LLM & Generative AI** systems that solve real problems.
+- 🏗️ **Master Scalable System Design** — microservices, distributed architecture, and cloud-native deployment.
+- 🔄 **Level Up in MLOps** — CI/CD, containerization, model serving, and reproducible ML pipelines.
+- 🌍 **Contribute to Open Source** — ship meaningful contributions to the AI & developer-tools ecosystem.
+- 🚢 **Own a Product End-to-End** — take a full-stack AI product from idea to deployed, real-world users.
 
 ---
 
 ## 💬 Interests
 
-**Cricket** · **Gaming** · **DSA & Algorithms** · **AI Research**
+**AI Research** · **LLMs & Agentic Systems** · **DSA & Algorithms** · **Cricket** · **Gaming**
 
 ---
 
 <p align="center">
   <i>"Code with passion, design with purpose, and learn without limits."</i>
+</p>
+
+<p align="center">
+  💼 <b>Open to opportunities</b> — let's build something intelligent together.
 </p>
