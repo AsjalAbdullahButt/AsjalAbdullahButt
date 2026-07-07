@@ -82,8 +82,8 @@ I specialize in turning AI research into real products: **LLM applications, RAG 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsjalAbdullahButt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsjalAbdullahButt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsjalAbdullahButt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsjalAbdullahButt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -91,9 +91,8 @@ I specialize in turning AI research into real products: **LLM applications, RAG 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsjalAbdullahButt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AsjalAbdullahButt&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" alt="Trophies" />
 </p>
-
 ---
 
 ## 🎯 2026 Objectives
