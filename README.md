@@ -82,8 +82,41 @@ I specialize in turning AI research into real products: **LLM applications, RAG 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AsjalAbdullahButt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AsjalAbdullahButt&theme=tokyonight&hide_border=true&timezone=Asia/Karachi" alt="GitHub Streak" />
 </p>
+
+<!--
+NOTE ON THIS SECTION (read before relying on it):
+
+1. SWITCHED TO MIRROR — the original streak-stats.demolab.com server is
+   currently down/timing out (verified directly, not just reported by
+   others). Swapped the base URL to the community-run mirror below,
+   which is working right now:
+     https://github-readme-streak-stats-eight.vercel.app
+   If this mirror also goes down later, check the project's GitHub
+   Discussions for a newer working mirror, or self-host (see #4).
+
+2. TIMEZONE FIX — &timezone=Asia/Karachi is included. Without it, the
+   service pulls contribution data in UTC, which can miscount your
+   streak by a day since you're in PKT (UTC+5).
+
+3. GITHUB IMAGE CACHING — GitHub re-hosts this image on its own camo CDN
+   and only refreshes it periodically. If you commit and don't see the
+   number change, that's expected — it can take a few hours. To force
+   an immediate refresh: open your live profile, right-click the image,
+   copy its camo.githubusercontent.com URL, and run:
+     curl -X PURGE <that-camo-url>
+
+4. PRIVATE CONTRIBUTIONS — if you have private repos and want that
+   activity counted, enable "Include private contributions" from the
+   dropdown above your contribution graph in GitHub profile settings.
+
+5. LONG-TERM FIX (recommended) — self-host this project on your own
+   free Vercel account. Takes ~10-15 minutes, uses your own GitHub
+   token, and removes your dependence on anyone else's shared server
+   uptime or rate limits entirely:
+   https://github.com/DenverCoder1/github-readme-streak-stats#deploy-on-your-own
+-->
 
 ---
 
