@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=AsjalAbdullahButt&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views">
 
@@ -121,17 +121,6 @@ For ML workloads, I primarily use **cloud-based environments such as Kaggle and 
 
 <a href="https://github.com/AsjalAbdullahButt">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AsjalAbdullahButt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats">
-
-</a>
-
-<a href="https://github.com/AsjalAbdullahButt">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsjalAbdullahButt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages">
-
-</a>
-
-<br><br>
 
 <a href="https://github.com/AsjalAbdullahButt">
 
@@ -141,27 +130,6 @@ For ML workloads, I primarily use **cloud-based environments such as Kaggle and 
 
 <br><br>
 
-<a href="https://github.com/AsjalAbdullahButt">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsjalAbdullahButt&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="GitHub Activity Graph">
-
-</a>
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AsjalAbdullahButt/EDU_Track">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsjalAbdullahButt&repo=EDU_Track&theme=tokyonight&hide_border=true" alt="EDU Track">
-</a>
-
-<a href="https://github.com/AsjalAbdullahButt/DineFlow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsjalAbdullahButt&repo=DineFlow&theme=tokyonight&hide_border=true" alt="DineFlow">
-</a>
 
 </div>
 
@@ -179,7 +147,7 @@ For ML workloads, I primarily use **cloud-based environments such as Kaggle and 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<br><br>
+<br>
 
 **🚀 Always building. Always learning. Always shipping.**
 
