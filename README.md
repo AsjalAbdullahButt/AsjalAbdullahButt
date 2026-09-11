@@ -14,8 +14,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
 ## 👋 About Me
 
 🤖 LLMs &nbsp;·&nbsp; 🔗 RAG Systems &nbsp;·&nbsp; 📊 ML Pipelines &nbsp;·&nbsp; ⚙️ FastAPI &nbsp;·&nbsp; 📱 Flutter &nbsp;·&nbsp; 🖥️ Enterprise Software
@@ -83,8 +81,6 @@ Most of my development is AI-assisted — I write detailed master prompts ✍️
 </div>
 
 <br>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 <div align="center">
 
