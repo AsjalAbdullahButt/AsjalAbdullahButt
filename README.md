@@ -18,11 +18,11 @@
 
 ## 👋 About Me
 
-I build production software at the intersection of applied AI and full-stack engineering — 🤖 LLM and RAG systems, 📊 ML pipelines, and the FastAPI/Flutter/WinForms layers that ship them to real users.
+🤖 LLMs &nbsp;·&nbsp; 🔗 RAG Systems &nbsp;·&nbsp; 📊 ML Pipelines &nbsp;·&nbsp; ⚙️ FastAPI &nbsp;·&nbsp; 📱 Flutter &nbsp;·&nbsp; 🖥️ Enterprise Software
 
-Day to day, I work as a **VB.NET / SQL Server developer at Cyber Software Solution (Pvt.) Ltd.** 🏢, building modules for **VitalERP/VitalPro**, an ERP platform for textile and garment businesses — dashboards, reporting architecture, performance tuning, and custom WinForms UI. Alongside that, I maintain a portfolio of independent AI and full-stack projects 🚀 and take on freelance work 💼.
+I design and ship intelligent, production-grade software end to end — from LLM-powered backends to clean, responsive frontends. My work spans enterprise systems, independent AI projects 🚀, and freelance builds 💼.
 
-I came up through internships at **Algorizms** (production LLM chatbot on the Gemini API), **Decode Labs** (ML pipelines — OCR, object detection), and **KBK Electronics** (frontend) 🎯, and I've stayed close to LLM tooling since.
+Background in LLM chatbots, ML pipelines (OCR, object detection), and frontend engineering 🎯 — still shipping close to LLM tooling today.
 
 <br>
 
@@ -85,6 +85,6 @@ Most of my development is AI-assisted — I write detailed master prompts ✍️
 
 <div align="center">
 
-✨ *Open to AI / Full-Stack / ML Engineering roles — feel free to reach out.* ✨
+🚀 *Always building, always learning — let's create something intelligent together.* 🤝
 
 </div>
