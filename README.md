@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="mailto:asjal.abdullah.butt.19@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=asjal.abdullah.butt.19@gmail.com&su=Hi%20Asjal">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://linkedin.com/in/asjal-abdullah-a3254b296">
@@ -55,7 +55,7 @@ I enjoy building in the open — if any of my work is useful to you, fork it, op
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-<sub>`LLM Applications` · `RAG` · `AI Agents` · `Prompt Engineering` · `Vector Search` · `Embeddings` · `API Integration` · `Chatbots`</sub>
+<sub>`LLM Applications` · `RAG` · `AI Agents` · `Prompt Engineering` · `Vector Search` · `Embeddings` · `Tool Calling` · `Chatbots`</sub>
 
 ## ⚙️ Backend & Frontend
 
@@ -79,45 +79,36 @@ I enjoy building in the open — if any of my work is useful to you, fork it, op
 
 ## 🚀 What I Build
 
-| Area | Technologies |
+| Domain | Stack & Techniques |
 | --- | --- |
-| 🤖 AI Applications | OpenAI · Gemini · Groq |
-| 🔗 RAG Systems | LangChain · FAISS · Embeddings |
-| 🧠 Machine Learning | PyTorch · TensorFlow · Scikit-learn |
-| ⚙️ Backend | Python · FastAPI · REST APIs |
-| 📱 Mobile | Flutter · Dart |
-| 🖥️ Enterprise | .NET · WinForms · API Integration |
-| 🗄️ Databases | PostgreSQL · MySQL · MongoDB · SQL Server |
-| ☁️ Development | Git · Docker · Linux · Cloud |
+| 🔗 RAG & Semantic Search | LangChain · FAISS · Embeddings · Vector DBs · Reranking |
+| 🤖 AI Agents & Orchestration | Tool Calling · Function Calling · Multi-Step Reasoning · Workflows |
+| 💬 LLM Applications | OpenAI · Gemini · Groq · Prompt Engineering · Structured Outputs |
+| 🧠 Machine Learning | PyTorch · TensorFlow · Scikit-learn · OCR · Object Detection |
+| ⚙️ Backend & APIs | Python · FastAPI · REST · Async · Microservices |
+| 📱 Mobile & Frontend | Flutter · Dart · React · Next.js |
+| 🖥️ Enterprise Integration | VB.NET · WinForms · SQL Server · ERP Systems |
+| 🗄️ Data & Infrastructure | PostgreSQL · MySQL · MongoDB · Docker · Git · Linux |
 
 ---
 
-## ⚡ Development Approach
+## ⚡ Engineering Focus
 
-I treat **AI-assisted development** as part of my engineering workflow. I write detailed specifications and master prompts, then use tools like **Claude Code, Cursor, and GitHub Copilot** to accelerate implementation — while keeping full control over architecture, code quality, and debugging.
+I design and ship **production-grade AI systems** — end to end, from retrieval to serving.
 
-For ML workloads, I primarily work in **cloud environments such as Kaggle and Hugging Face**, so I can train and iterate without a local GPU.
+- **Retrieval & RAG** — vector search, embeddings, chunking strategies, reranking, semantic search
+- **Agentic systems** — tool calling, function calling, multi-step reasoning, orchestration
+- **LLM reliability** — prompt engineering, structured outputs, evaluation, guardrails
+- **Deployment** — FastAPI microservices, containerized inference, async pipelines
+- **Scale** — cloud-based training and inference on **Kaggle** and **Hugging Face**
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsjalAbdullahButt&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsjalAbdullahButt&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=AsjalAbdullahButt&theme=catppuccin_mocha&hide_border=true" width="80%" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsjalAbdullahButt&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f5e0dc&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AsjalAbdullahButt&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="95%" alt="Trophies" />
+<img src="https://streak-stats.demolab.com/?user=AsjalAbdullahButt&theme=catppuccin_mocha&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="GitHub Streak — Total Contributions & Current Streak" />
 
 </div>
 
@@ -129,7 +120,7 @@ For ML workloads, I primarily work in **cloud environments such as Kaggle and Hu
 
 Open to **open-source collaboration**, interesting AI/ML problems, and good conversations about shipping real products.
 
-<a href="mailto:asjal.abdullah.butt@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=asjal.abdullah.butt.19@gmail.com&su=Hi%20Asjal">
 <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://linkedin.com/in/asjal-abdullah-a3254b296">
